@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+
+# Environment file (if used later)
+.env
+
+data/Steel_industry_data.csv
